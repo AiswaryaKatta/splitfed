@@ -27,6 +27,3 @@ It also integrates the **CodeCarbon** library to track energy usage and carbon e
 
 ---
 
-## 🖼️ Model Architecture
-
-**Client Model**
